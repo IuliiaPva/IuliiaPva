@@ -1,4 +1,4 @@
-Header
+
 
 Hi, I’m Iuliia (Julia) Poliakova - a Software QA Engineer with 2.5+ years of experience, ensuring web products don’t just function, but feel great to use.
 
