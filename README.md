@@ -1,4 +1,4 @@
-![Header](https://github.com/IuliiaPva/IuliiaPva/blob/main/CoverIuliia%20Poliakova.png)
+![Header](https://github.com/IuliiaPva/IuliiaPva/blob/main/CoverPic.png)
 
 Hi, I’m Iuliia (Julia) Poliakova - a Software QA Engineer with 2.5+ years of experience, ensuring web products don’t just function, but feel great to use.
 
